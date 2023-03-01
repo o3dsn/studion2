@@ -1,0 +1,20 @@
+{
+  "name": "studion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o3dsn/studion2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o3dsn/studion2/issues"
+  },
+  "homepage": "https://github.com/o3dsn/studion2#readme"
+}
