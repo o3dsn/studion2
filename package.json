@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/o3dsn/studion2/issues"
   },
-  "homepage": "https://github.com/o3dsn/studion2#readme"
+  "homepage": "https://github.com/o3dsn/studion2#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
